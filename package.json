@@ -1,0 +1,30 @@
+{
+  "name": "Typescript-Nodejs-Github-Report",
+  "version": "1.0.0",
+  "description": "typescript-nodejs-github-report",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpforcoding/Typescript-Nodejs-Github-Report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpforcoding/Typescript-Nodejs-Github-Report/issues"
+  },
+  "homepage": "https://github.com/zpforcoding/Typescript-Nodejs-Github-Report#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.181",
+    "@types/request": "^2.48.8",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "request": "^2.88.2"
+  }
+}
